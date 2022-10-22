@@ -1,0 +1,5 @@
+
+
+
+a = "mostafa"
+print (a)
