@@ -1,5 +1,2 @@
 
-
-
-a = "mostafa"
-print (a)
+print("Hello World")
